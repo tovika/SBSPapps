@@ -1,0 +1,57 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 6,
+    "Gallery1": 7,
+    "galleryTemplate1": 8,
+    "Label2": 10,
+    "Label3": 11,
+    "Label4": 12,
+    "Screen1": 3,
+    "Video2": 9
+  },
+  "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "05/06/2022 10:51:06",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "_resources": 1,
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 0,
+    "gallery": 1,
+    "label": 3,
+    "videoPlayback": 2
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 0,
+    "Gallery1": 1,
+    "galleryTemplate1": 2,
+    "Label2": 4,
+    "Label3": 6,
+    "Label4": 5,
+    "Screen1": 0,
+    "Video2": 3
+  },
+  "ResourcesJsonIndices": {
+    "Video-SampleVideo": 0
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0670656,
+    "ControlCount": {},
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
