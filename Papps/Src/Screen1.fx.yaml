@@ -16,7 +16,7 @@ Screen1 As screen:
         OnSelect: |-
             =ClearCollect(
                 _resources,
-                {ID:1, Link:"https://youtu.be/lYi24okXDPs",Title:"Search and filter", Desc: "Power Apps Search and Filter Function with SharePoint + Workarounds"},
+                {ID:1, Link:"https://youtu.be/lYi24okXDPs",Title:"Search and filter", Desc: "Endret i Git. Power Apps Search and Filter Function with SharePoint + Workarounds"},
                 {ID:2, Link:"https://youtu.be/e2_BGekECfY",Title:"Variabler", Desc: "Kun testvid. Intro to PowerApps Variables"}
             )
         PressedBorderColor: =ColorFade(RGBA(105, 121, 126, 1), -50%)
