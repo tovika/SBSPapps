@@ -6,13 +6,11 @@
     "Gallery1": 7,
     "galleryTemplate1": 8,
     "Label2": 10,
-    "Label3": 11,
-    "Label4": 12,
     "Screen1": 3,
     "Video2": 9
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/06/2022 10:51:06",
+  "HeaderLastSavedDateTimeUTC": "05/06/2022 10:51:34",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -39,8 +37,6 @@
     "Gallery1": 1,
     "galleryTemplate1": 2,
     "Label2": 4,
-    "Label3": 6,
-    "Label4": 5,
     "Screen1": 0,
     "Video2": 3
   },
